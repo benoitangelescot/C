@@ -6,3 +6,4 @@ Packing list
 picnic
 ****************
 - salt
+-pepper
